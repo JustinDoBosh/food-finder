@@ -1,0 +1,6 @@
+Hot Tamale	Mexican	25
+cafe	American	30
+Berns	Steak House	50
+Sweet Tomatoes	Buffet	7
+Bobby Chins	Sea food	40
+pita pit	fast food	10
